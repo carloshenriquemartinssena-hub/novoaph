@@ -74,7 +74,7 @@ h1  {
 		color: yellow;
 	}
 
-	button { right:-35px;position: relative; padding: 10px 60px 20px 60px; background: #0095CC; border-radius: 8px; border: 2px solid white; margin: 5px;}
+	button { right:-35px;position: relative; padding: 10px 60px 20px 60px; background: #0095CC; border-radius: 8px; border: 2px solid white; margin: 15px;}
 	a { text-decoration:none; color:white;
 	font-family:"Exo 2", sans-serif;
 	font-weight:400;
@@ -558,3 +558,4 @@ color:yellow;
  }
 
 }
+
