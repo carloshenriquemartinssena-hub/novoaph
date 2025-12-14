@@ -11,6 +11,9 @@ color:white;
 	header { 
 	height:100vh; }
 
+	onlydesktop.membros { 
+	 display:none;}
+
 .aph  {
 
 
@@ -558,4 +561,5 @@ color:yellow;
  }
 
 }
+
 
