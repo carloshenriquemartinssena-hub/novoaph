@@ -6,13 +6,18 @@ background:black;
 color:white;
 } 
 
+.membros {
+	display:none;
+ opacity:0}
+
 @media ( min-width: 320px) and ( max-width: 374px) {  
 
 	header { 
 	height:100vh; }
 
-	onlydesktop.membros { 
-	 display:none;}
+	mobileonly.membros { 
+	 display:block;
+	opacity: 1.0}
 
 .aph  {
 
@@ -561,5 +566,6 @@ color:yellow;
  }
 
 }
+
 
 
